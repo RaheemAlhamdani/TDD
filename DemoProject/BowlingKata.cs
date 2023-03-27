@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DemoTest
+namespace DemoProject
 {
     [TestClass]
     public class BowlingKata
