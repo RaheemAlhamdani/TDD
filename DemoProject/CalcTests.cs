@@ -38,7 +38,6 @@ namespace DemoProject
             var expectedResult = 2;
 
             // Act
-
             var actualResult = calc?.Divide(a, b);
 
             // Assert
