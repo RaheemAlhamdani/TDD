@@ -1,7 +1,7 @@
 ﻿namespace DemoProject
 {
     [TestClass]
-    public class FibonacciArray
+    public class FibonacciTest
     {
         Fibonacci? fib;
 
