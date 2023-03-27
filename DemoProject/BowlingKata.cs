@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace DemoProject
 {
+    [TestClass]
     internal class BowlingKata
     {
+        [TestMethod]
+        public void DoNothing()
+        {
+
+        }
     }
 }
