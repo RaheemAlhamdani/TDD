@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace DemoProject
 {
-    internal class Calc
+    public class Calc
     {
 
         public int Add(int x, int y)
